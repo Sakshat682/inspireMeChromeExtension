@@ -12,10 +12,11 @@ body {
     display: flex;
     margin-top: 40%;
     font-size: 18px;
-    color: rgb(238, 255, 0);
+    color: rgb(222, 235, 39);
     border-radius: 6px;
-    border: 1px solid lightblue;
+    border: 2px solid lightblue;
     padding: 10px;
+    background-color: rgb(190, 54, 99);
 }
 
 p {
